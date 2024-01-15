@@ -43,3 +43,28 @@
         <img width="12" />
         <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
       </div>
+
+
+
+
+      # Hello, I'm Your Name 👋
+
+## About Me
+I'm a passionate software developer with a focus on web technologies.
+
+## Skills
+- JavaScript (React, Node.js)
+- HTML, CSS
+- Git
+
+## Projects
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [Twitter](https://twitter.com/yourusername)
+
