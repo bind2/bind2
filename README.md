@@ -49,9 +49,6 @@
 
 Here are some of the projects I've worked on:
 
-## Project 1: Awesome Web App
-- **Description:** A feature-rich web application for [specific purpose].
-- **Technologies Used:** React, Node.js, MongoDB
 - **GitHub Repository:** [Treemiti](https://bind2.github.io/treemiti/)
 - **Live Demo:** [Treemiti](https://bind2.github.io/treemiti/)
 
