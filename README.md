@@ -44,6 +44,10 @@
         <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
       </div>
 
+      ## Projects
+- [Project 1](https://github.com/bind2/project1)
+- [Project 2](https://github.com/bind2/project2)
+
 
 
 
