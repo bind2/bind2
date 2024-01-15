@@ -37,13 +37,6 @@
         <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
       </div>
 
-# Projects
-
-Here are some of the projects I've worked on:
-
-- **GitHub Repository:** [Treemiti](https://github.com/bind2/treemiti/)
-- **Live Demo:** [Treemiti](https://bind2.github.io/treemiti/)
-
 
 
 # My Projects
@@ -51,14 +44,5 @@ Here are some of the projects I've worked on:
 | Project Name       | Description                        | Technologies Used                   | GitHub Repository                            | Live Demo                    |
 |--------------------|------------------------------------|-------------------------------------|---------------------------------------------|------------------------------|
 | Treemiti         | Treemiti's courses are designed to meet the needs of the IT industry      | Reactjs             | [view](https://github.com/bind2/treemiti) | [click me](https://bind2.github.io/treemiti/) |
-
-Feel free to add or remove columns based on your needs. Each row represents a different project, and you can provide information such as project name, description, technologies used, GitHub repository link, and live demo link.
-
-Replace the placeholder information (like `yourusername`, `Project 1`, etc.) with your actual details. Markdown tables can be customized further based on your preferences or additional details you want to include.
-
-
-
-
-
 
 
