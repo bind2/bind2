@@ -48,11 +48,3 @@
 
 
 
-## Projects
-- [Project 1](https://github.com/bind2/project1)
-- [Project 2](https://github.com/bind2/project2)
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bind2&show_icons=true)
-
-
