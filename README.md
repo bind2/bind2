@@ -1,4 +1,4 @@
-![logo](https://github.com/bind2/bind2/blob/main/abstract-digital-grid-black-background.jpg)
+![](https://github.com/bind2/bind2/blob/main/abstract-digital-grid-black-background.jpg)
 
 <h1 align="center">Hi 👋, I'm Deepak bind</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
