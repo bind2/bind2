@@ -49,7 +49,7 @@
 
 Here are some of the projects I've worked on:
 
-- **GitHub Repository:** [Treemiti](https://bind2.github.io/treemiti/)
+- **GitHub Repository:** [Treemiti](https://github.com/bind2/treemiti/)
 - **Live Demo:** [Treemiti](https://bind2.github.io/treemiti/)
 
 
