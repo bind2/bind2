@@ -45,7 +45,7 @@
       </div>
 
       ## Projects
-- [Project 1](https://bind2.github.io/treemiti)
+- [Treemiti](https://bind2.github.io/treemiti)
 
 
 
