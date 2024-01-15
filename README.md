@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak bind</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
-
-
 # Skills
 
 <div align="left">
@@ -41,7 +39,6 @@
         <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
       </div>
 
-      
 # Projects
 
 Here are some of the projects I've worked on:
