@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak bind</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
-
-
-
-
 <p align="left"></p>
-
 
 # Skills
 
@@ -54,9 +49,7 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Treemiti](https://github.com/bind2/treemiti/)
 - **Live Demo:** [Treemiti](https://bind2.github.io/treemiti/)
 
-# Email
 
-- 📫 How to reach me **emailfordeepakbind@gmail.com**
 
 
 
