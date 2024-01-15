@@ -3,7 +3,7 @@
 
 
 
-- 📫 How to reach me **emailfordeepakbind@gmail.com**
+
 
 <p align="left"></p>
 
@@ -55,6 +55,7 @@ Here are some of the projects I've worked on:
 - **Live Demo:** [Treemiti](https://bind2.github.io/treemiti/)
 
 
+- 📫 How to reach me **emailfordeepakbind@gmail.com**
 
 
 
