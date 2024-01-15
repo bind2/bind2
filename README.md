@@ -54,6 +54,7 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Treemiti](https://github.com/bind2/treemiti/)
 - **Live Demo:** [Treemiti](https://bind2.github.io/treemiti/)
 
+# Email
 
 - 📫 How to reach me **emailfordeepakbind@gmail.com**
 
