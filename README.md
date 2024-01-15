@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak bind</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
-<p align="left"></p>
+
 
 # Skills
 
