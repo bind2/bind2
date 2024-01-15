@@ -1,6 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Deepak bind</h1>
+<h3 align="center">A passionate mern stack developer from India</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bind2&label=Profile%20views&color=0e75b6&style=flat" alt="bind2" /> </p>
+
+- 📫 How to reach me **emailfordeepakbind@gmail.com**
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
