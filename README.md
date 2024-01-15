@@ -1,4 +1,4 @@
-<img src="https://github.com/bind2/bind2/blob/main/abstract-digital-grid-black-background.jpg" height="200"/>   
+<img src="https://github.com/bind2/bind2/blob/main/abstract-digital-grid-black-background.jpg" height="200" width="100%"/>   
 
 <h1 align="center">Hi 👋, I'm Deepak bind</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
