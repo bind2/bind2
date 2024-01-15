@@ -50,7 +50,7 @@ Here are some of the projects I've worked on:
 
 | Project Name       | Description                        | Technologies Used                   | GitHub Repository                            | Live Demo                    |
 |--------------------|------------------------------------|-------------------------------------|---------------------------------------------|------------------------------|
-| Treemiti         | Short description of Project 1      | React, Node.js, MongoDB             | [Project 1 Repository](https://github.com/bind2/treemiti) | [Live Demo](https://bind2.github.io/treemiti/) |
+| Treemiti         | Treemiti's courses are designed to meet the needs of the IT industry      | Reactjs             | [view](https://github.com/bind2/treemiti) | [click me](https://bind2.github.io/treemiti/) |
 
 Feel free to add or remove columns based on your needs. Each row represents a different project, and you can provide information such as project name, description, technologies used, GitHub repository link, and live demo link.
 
