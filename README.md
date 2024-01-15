@@ -52,7 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bind2&show_icons=true&locale=en" alt="bind2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bind2&" alt="bind2" /></p>
+
 
 
 
