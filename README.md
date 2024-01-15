@@ -41,8 +41,8 @@
 
 # My Projects
 
-| Project Name       | Description                        | Technologies Used                   | GitHub Repository                            | Live Demo                    |
-|--------------------|------------------------------------|-------------------------------------|---------------------------------------------|------------------------------|
-| Treemiti         | Treemiti's courses are designed to meet the needs of the IT industry      | Reactjs             | [view](https://github.com/bind2/treemiti) | [click me](https://bind2.github.io/treemiti/) |
+| Project Name       | Technologies Used                   | GitHub Repository                            | Live Demo                    |
+|--------------------|-------------------------------------|----------------------------------------------|------------------------------|
+| Treemiti           | Reactjs                             | [view](https://github.com/bind2/treemiti)    | [click me](https://bind2.github.io/treemiti/) |
 
 
