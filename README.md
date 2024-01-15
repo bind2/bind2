@@ -46,6 +46,20 @@ Here are some of the projects I've worked on:
 
 
 
+# My Projects
+
+| Project Name       | Description                        | Technologies Used                   | GitHub Repository                            | Live Demo                    |
+|--------------------|------------------------------------|-------------------------------------|---------------------------------------------|------------------------------|
+| Project 1          | Short description of Project 1      | React, Node.js, MongoDB             | [Project 1 Repository](https://github.com/yourusername/project1) | [Project 1 Demo](https://yourusername.github.io/project1/) |
+| Project 2          | Brief description of Project 2      | Express.js, PostgreSQL              | [Project 2 Repository](https://github.com/yourusername/project2) | [Project 2 Demo](https://yourusername.github.io/project2/) |
+| Project 3          | Project 3 details                   | Django, SQLite                     | [Project 3 Repository](https://github.com/yourusername/project3) | [Project 3 Demo](https://yourusername.github.io/project3/) |
+
+Feel free to add or remove columns based on your needs. Each row represents a different project, and you can provide information such as project name, description, technologies used, GitHub repository link, and live demo link.
+
+Replace the placeholder information (like `yourusername`, `Project 1`, etc.) with your actual details. Markdown tables can be customized further based on your preferences or additional details you want to include.
+
+
+
 
 
 
