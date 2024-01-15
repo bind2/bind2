@@ -20,8 +20,6 @@
         <img width="15" />
         <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
         <img width="15" />
-        <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-        <img width="15" />
         <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
         <img width="15" />
         <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
@@ -33,8 +31,6 @@
         <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
         <img width="15" />
         <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-        <img width="15" />
-        <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
       </div>
 
 
