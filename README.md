@@ -7,7 +7,7 @@
 
 <p align="left"></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <div align="left">
         <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
         <img width="12" />
