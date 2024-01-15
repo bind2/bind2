@@ -43,7 +43,7 @@
         <img width="12" />
         <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
       </div>
- ### Projects
+ ## Projects
 - [Treemiti](https://bind2.github.io/treemiti)
 
 
