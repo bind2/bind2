@@ -12,6 +12,8 @@
         <img width="12" />
         <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
         <img width="12" />
+        <img src="https://skillicons.dev/icons?i=tailwindcss" height="30" alt="redux logo"  />
+        <img width="12" />
         <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -23,8 +25,7 @@
         <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
         <img width="12" />
         <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=tailwindcss" height="30" alt="redux logo"  />
+        
       </div>
 
 
