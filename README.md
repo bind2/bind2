@@ -24,8 +24,6 @@
         <img width="12" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="react logo"  />
         <img width="12" />
-<img src="https://skillicons.dev/icons?i=reactquery" height="30" alt="react logo"  />
-       <img width="12" />
 <img src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5" height="30" alt="react query logo" />
 </div>
 
