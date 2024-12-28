@@ -25,6 +25,8 @@
         <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
         <img width="12" />
         <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+        <img width="12" />
+<img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
       </div>
 
 
