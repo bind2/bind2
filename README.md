@@ -27,7 +27,7 @@
         <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
         <img width="12" />
 
-      <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+<img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
 </div>
 
 
