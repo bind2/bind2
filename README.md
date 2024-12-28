@@ -23,9 +23,7 @@
         <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
-        
         <img width="12" />
-
 <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="react logo"  />
 </div>
 
