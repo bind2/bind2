@@ -24,6 +24,8 @@
         <img width="12" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
         <img width="12" />
+<img src="https://skillicons.dev/icons?i=redis" height="30" alt="mongodb logo"  />
+        <img width="12" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="react logo"  />
         
 
