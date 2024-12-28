@@ -18,8 +18,6 @@
         <img width="12" />
 <img src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5" height="30" alt="react query logo" />
         <img width="12" />
-<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.png" height="30" alt="zustand logo" />
-        <img width="12" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
         <img width="12" />
 <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
