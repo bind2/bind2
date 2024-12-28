@@ -18,7 +18,6 @@
         <img width="12" />
 <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
         <img width="12" />
-        
 <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
