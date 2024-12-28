@@ -26,7 +26,7 @@
         <img width="12" />
         <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
         <img width="12" />
-<img src="https://cdn.simpleicons.org/nextjs/F05032" height="30" alt="git logo"  />
+<img src="https://cdn.simpleicons.org/next/F05032" height="30" alt="git logo"  />
       </div>
 
 
