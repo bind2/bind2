@@ -16,6 +16,8 @@
         <img width="12" />
 <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
         <img width="12" />
+<img src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5" height="30" alt="react query logo" />
+        <img width="12" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
         <img width="12" />
 <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -23,8 +25,8 @@
 <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
         <img width="12" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="react logo"  />
-        <img width="12" />
-<img src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5" height="30" alt="react query logo" />
+        
+
 </div>
 
 
