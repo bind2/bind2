@@ -10,8 +10,6 @@
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
         <img width="12" />
-        <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
-        <img width="12" />
         <img src="https://skillicons.dev/icons?i=tailwindcss" height="30" alt="redux logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
